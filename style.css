@@ -1,0 +1,140 @@
+
+
+
+body{
+background-color: black;
+
+}
+
+
+.h1{
+    font-family: "Rubik Mono One", monospace;
+  font-weight: 400%;
+  font-style: normal;
+  font-size: xx-large;
+  color: blanchedalmond;
+  text-align:center;
+  
+
+
+}
+    
+      
+      
+      
+
+   
+    
+    
+    
+
+
+.Palmeiras{
+    color: green;
+    font-size: xx-large;
+    text-align: center;
+    
+  
+}
+
+.time-ruim{
+
+    border: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    width: 70%;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    
+    
+    
+}
+
+
+
+.inter{
+    border: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    width: 70%;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    
+    
+    
+
+}
+
+.flu{
+    border: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    width: 70%;  
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+
+
+
+}
+
+.timao{
+    border: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: white;
+    width: 70%;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    
+
+}
+
+
+.O-maior{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+
+.Internacional{
+    color: red;
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+.Fluminense{
+    color: green;
+    font-size: xx-large;
+    text-align: center;
+    
+
+}
+
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+}
+
+div{
+    text-align: center;
+    
+    
+ 
+}
